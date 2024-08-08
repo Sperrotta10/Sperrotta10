@@ -1,10 +1,10 @@
-# 🌟 **[Santiago Perrotta]** 🌟
+# 🌟 **Santiago Perrotta** 🌟
 
 ![Banner](https://via.placeholder.com/1000x250.png?text=Welcome+to+my+GitHub+Profile!)
 
-## 👋 **Hola! Soy [Santiago]**
+## 👋 **Hola! Soy Santiago**
 
-🚀 Desarrollador apasionado con experiencia en **[Tecnologías/Áreas Clave]**. Me especializo en **[especialización principal]** y disfruto de **[lo que te apasiona]**.
+🚀 Desarrollador apasionado y siempre dispuesto a aprender. Me especializo en **Backend** y disfruto **adquiriendo nuevos conocimientos constantemente**.
 
 ## 🛠️ **Tecnologías y Herramientas**
   
@@ -19,7 +19,7 @@
 
 <p align="center">
   <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sperrotta10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sperrotta10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sperrotta10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 </p>
