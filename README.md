@@ -48,6 +48,6 @@
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/TuUsuario?label=Seguidores&style=social" alt="Seguidores">
-  <img src="https://img.shields.io/github/stars/TuUsuario?label=Estrellas&style=social" alt="Estrellas">
+  <img src="https://img.shields.io/github/followers/Sperrotta10?label=Seguidores&style=social" alt="Seguidores">
+  <img src="https://img.shields.io/github/stars/Sperrotta10?label=Estrellas&style=social" alt="Estrellas">
 </p>
