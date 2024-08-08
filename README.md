@@ -1,6 +1,6 @@
 # 🌟 **Santiago Perrotta** 🌟
 
-![Banner]([https://via.placeholder.com/1000x250.png?text=Welcome+to+my+GitHub+Profile!](https://emprendedor.com/wp-content/uploads/2023/01/Deep-tech.jpg))
+![Banner]([https://via.placeholder.com/1000x250.png?text=Welcome+to+my+GitHub+Profile!](https://emprendedor.com/wp-content/uploads/2023/01/Deep-tech.jpg)!)
 
 ## 👋 **Hola! Soy Santiago**
 
