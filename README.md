@@ -1,6 +1,6 @@
 # 🌟 **Santiago Perrotta** 🌟
 
-<img src="https://emprendedor.com/wp-content/uploads/2023/01/Deep-tech.jpg" alt="Banner" width="1000" height="250">
+<img src="https://emprendedor.com/wp-content/uploads/2023/01/Deep-tech.jpg" alt="Banner" width="1000" height="350">
 
 ## 👋 **Hola! Soy Santiago**
 
