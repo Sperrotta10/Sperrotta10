@@ -42,7 +42,7 @@
 
 ## 📝 **Últimos Proyectos**
 
-- 🌐 **[Proyecto 1](URL_PROYECTO1)** - Breve descripción del proyecto.  
+- 🌐 **[Proyecto 1]([URL_PROYECTO1](https://github.com/Sperrotta10/Programacion_Web))** - Breve descripción del proyecto.  
 - 🚀 **[Proyecto 2](URL_PROYECTO2)** - Breve descripción del proyecto.  
 - 🛠️ **[Proyecto 3](URL_PROYECTO3)** - Breve descripción del proyecto.  
 
