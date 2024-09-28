@@ -46,8 +46,11 @@
 
 ## 🌱 **Actualmente Aprendiendo**
 
-- **[Tecnología o Herramienta que estás aprendiendo]**
-- **[Otra Tecnología o Herramienta]**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,npm,react,unity&perline=14" />
+  </a>
+</p>
 
 ## 🎯 **Misión**
 
