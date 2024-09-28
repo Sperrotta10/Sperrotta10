@@ -1,6 +1,6 @@
 # 🌟 **Santiago Perrotta** 🌟
 
-<img src="https://emprendedor.com/wp-content/uploads/2023/01/Deep-tech.jpg" alt="Banner" width="1000" height="250">
+<img src="https://emprendedor.com/wp-content/uploads/2023/01/Deep-tech.jpg" alt="Banner" width="1000" height="300">
 
 ## 👋 **Hola! Soy Santiago**
 
@@ -19,14 +19,14 @@
 <p align="center">
   <div align="center">
     <!-- Estadísticas del usuario -->
-    <img src="https://github-readme-stats.vercel.app/api?username=Sperrotta10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Sperrotta10&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=true&theme=synthwave&locale=en&hide_border=false" height="150" alt="stats graph" />
     <!-- Idiomas más utilizados -->
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sperrotta10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sperrotta10&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph" />
   </div>
 
 
   <div align="center">
-    <img src="https://streak-stats.demolab.com?user=Sperrotta10&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+    <img src="https://streak-stats.demolab.com?user=Sperrotta10&locale=en&mode=daily&theme=onedark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   </div>
 
 </p>
