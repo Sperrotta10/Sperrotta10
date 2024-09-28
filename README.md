@@ -1,21 +1,18 @@
 # 🌟 **Santiago Perrotta** 🌟
 
-<img src="https://emprendedor.com/wp-content/uploads/2023/01/Deep-tech.jpg" alt="Banner" width="1000" height="350">
+<img src="https://emprendedor.com/wp-content/uploads/2023/01/Deep-tech.jpg" alt="Banner" width="1000" height="250">
 
 ## 👋 **Hola! Soy Santiago**
 
 🚀 Desarrollador apasionado y siempre dispuesto a aprender. Me especializo en **Backend** y disfruto **adquiriendo nuevos conocimientos constantemente**.
 
 ## 🛠️ **Tecnologías y Herramientas**
-  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED1B24?style=for-the-badge&logo=java&logoColor=white)
-![MySQL Workbench](https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,python,java,mysql,git&perline=14" />
+  </a>
+</p>
 
 ## 📊 **Estadísticas de GitHub**
 
