@@ -41,7 +41,7 @@
 
 - 🌐 **[Proyecto 1](https://github.com/Sperrotta10/Programacion_Web)** - es una app web que simula la reserva de vuelos, desarrollada con HTML, CSS y JavaScript. Ofrece una interfaz sencilla para buscar vuelos, seleccionar asientos y realizar pagos de manera intuitiva.
 - 🚀 **[Proyecto 2](https://github.com/angelopol/bistrot)** - es una plataforma web (simulacion) interna diseñada para empleados de un restaurante. Utiliza módulos para gestionar Ventas, RRHH, Compras, Inventario, Reservas, Mantenimiento y Cocina. La aplicación facilita la administración de operaciones diarias y la coordinación entre diferentes áreas, mejorando la eficiencia y la comunicación dentro del restaurante.
-- 🛠️ **[Proyecto 3](https://enlace-a-proyecto3.com)** - Descripción breve del tercer proyecto.
+- 🛠️ **[Proyecto 3](https://enlace-a-proyecto3.com)** - 
  
 
 ## 🌱 **Actualmente Aprendiendo**
