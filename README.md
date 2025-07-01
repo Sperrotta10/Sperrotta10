@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,git,mysql,nodejs,npm,figma&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,mysql,docker,sequelize,nodejs,express,npm,figma,postman&perline=14" />
   </a>
 </p>
 
@@ -31,7 +31,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,unity,firebase,docker,linux,mongodb,nginx&perline=14" />
+    <img src="https://skillicons.dev/icons?i=unity,linux,supabase,firebase,mongodb,nginx&perline=14" />
   </a>
 </p>
 
