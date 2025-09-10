@@ -22,8 +22,8 @@
 
 ## 📝 **Últimos Proyectos**
 
-- 🌐 **[Proyecto 1](https://github.com/Sperrotta10/Programacion_Web)** - es una app web que simula la reserva de vuelos, desarrollada con HTML, CSS y JavaScript. Ofrece una interfaz sencilla para buscar vuelos, seleccionar asientos y realizar pagos de manera intuitiva.
-- 🚀 **[Proyecto 2](https://enlace-a-proyecto2.com)** - 
+- ✈️ **[Proyecto 1](https://github.com/Sperrotta10/Programacion_Web)** - es una app web que simula la reserva de vuelos, desarrollada con HTML, CSS y JavaScript. Ofrece una interfaz sencilla para buscar vuelos, seleccionar asientos y realizar pagos de manera intuitiva.
+- 🤖🎬 **[Proyecto 2](https://github.com/Sperrotta10/MovieIA)** - es una app web con un agente de IA que te recomiendas peliculas segun lo que le especifiques, ademas te permite visualizar las peliculas, buscarlas, agregarlas a tu watchlist, darles me gusta o simplemete indicar las peliculas que ya viste.
 - 🛠️ **[Proyecto 3](https://enlace-a-proyecto3.com)** - 
  
 
