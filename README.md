@@ -29,6 +29,11 @@
   </a>
 </p>
 
+### 📱 **Desarrollo Móvil**
+<p align="left">
+  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
+</p>
+
 ### 🔧 **Herramientas & DevOps**
 <p align="left">
   <a href="https://skillicons.dev">
