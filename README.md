@@ -2,15 +2,37 @@
 
 <img src="https://emprendedor.com/wp-content/uploads/2023/01/Deep-tech.jpg" alt="Banner" width="1000" height="300">
 
-## 👋 **Hola! Soy Santiago**
+## 👋 **¡Hola! Soy Santiago**
 
 🚀 Desarrollador apasionado y siempre dispuesto a aprender. Me especializo en **Backend** y disfruto **adquiriendo nuevos conocimientos constantemente**.
 
 ## 🛠️ **Tecnologías y Herramientas**
 
-<p align="center">
+### 💻 **Frontend & UI/UX**
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,python,git,mysql,docker,sequelize,nodejs,express,npm,figma,postman&perline=14" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,tailwind,figma" />
+  </a>
+</p>
+
+### ⚙️ **Backend**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi" />
+  </a>
+</p>
+
+### 🗄️ **Bases de Datos & BaaS**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,sequelize,prisma,supabase" />
+  </a>
+</p>
+
+### 🔧 **Herramientas & DevOps**
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,docker,postman,vercel,npm,gitlab,githubactions" />
   </a>
 </p>
 
@@ -22,16 +44,15 @@
 
 ## 📝 **Últimos Proyectos**
 
-- ✈️📃 **[Proyecto 1](https://github.com/Sperrotta10/Programacion_Web)** - es una app web que simula la reserva de vuelos, desarrollada con HTML, CSS y JavaScript. Ofrece una interfaz sencilla para buscar vuelos, seleccionar asientos y realizar pagos de manera intuitiva.
-- 🤖🎬 **[Proyecto 2](https://github.com/Sperrotta10/MovieIA)** - es una app web con un agente de IA que te recomiendas peliculas segun lo que le especifiques, ademas te permite visualizar las peliculas, buscarlas, agregarlas a tu watchlist, darles me gusta o simplemete indicar las peliculas que ya viste.
+- ✈️📃 **[Proyecto 1](https://github.com/Sperrotta10/Programacion_Web)** - Es una app web que simula la reserva de vuelos, desarrollada con HTML, CSS y JavaScript. Ofrece una interfaz sencilla para buscar vuelos, seleccionar asientos y realizar pagos de manera intuitiva.
+- 🤖🎬 **[Proyecto 2](https://github.com/Sperrotta10/MovieIA)** - Es una app web con un agente de IA que te recomienda películas según lo que le especifiques. Además, te permite visualizar las películas, buscarlas, agregarlas a tu watchlist, darles me gusta o simplemente indicar las películas que ya viste.
 - 🍎🛒 **[Proyecto 3](https://github.com/Sperrotta10/Mini-Mercado)** - Aplicación web diseñada para optimizar la experiencia de compras en mini-mercados mediante la creación de listas personalizadas, gestión de disponibilidad de productos y fidelización de usuarios a través de un sistema de suscripción.
  
-
 ## 🌱 **Actualmente Aprendiendo**
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,linux,supabase,firebase,mongodb,nginx&perline=14" />
+    <img src="https://skillicons.dev/icons?i=unity,linux,firebase,mongodb,nginx,vue,flutter" />
   </a>
 </p>
 
