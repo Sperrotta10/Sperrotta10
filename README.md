@@ -31,7 +31,7 @@
 
 ### 📱 **Desarrollo Móvil**
 <p align="left">
-  <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React Native">
+  <img src="https://skillicons.dev/icons?i=react,flutter,dart" />
 </p>
 
 ### 🔧 **Herramientas & DevOps**
@@ -57,7 +57,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,linux,firebase,mongodb,nginx,vue,flutter" />
+    <img src="https://skillicons.dev/icons?i=unity,linux,firebase,mongodb,nginx,vue" />
   </a>
 </p>
 
